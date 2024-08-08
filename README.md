@@ -49,7 +49,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://groups.ischool.berkeley.edu/datasci209summer2024section003/209Project-template-html/index.html)
-Berkeley MIDS 209 -- Information to Visualization Course <br>
+<strong>Berkeley MIDS 209</strong> Information to Visualization Course <br>
 Working in a group of three or four people, you will design and develop an interactive visualization with some supporting text for viewing online.
 You may use any dataset you like. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
