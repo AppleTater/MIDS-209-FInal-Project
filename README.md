@@ -87,9 +87,9 @@ Project Link: [https://github.com/AppleTater/MIDS-209-FInal-Project.git](https:/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Maria Jose Healey - [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/maria-jose-healey-5066ba264/]
-* Moonsoo Kim - [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/moonsoo-kim/]
-* Kimsean Pen - [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/kimsean-pen/]
+* Maria Jose Healey - [![LinkedIn][https://www.linkedin.com/in/maria-jose-healey-5066ba264/]]
+* Moonsoo Kim - [![LinkedIn][https://www.linkedin.com/in/moonsoo-kim/]]
+* Kimsean Pen - [![LinkedIn]https://www.linkedin.com/in/kimsean-pen/]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
